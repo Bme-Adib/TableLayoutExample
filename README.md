@@ -1,6 +1,6 @@
 # Android TableLayout with Border 
 
-This project aims to demonstrate a TableLayout with border for for Android.
+This project aims to demonstrate a TableLayout with border for Android.
 
 Landscape:
 
